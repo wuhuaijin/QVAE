@@ -479,7 +479,7 @@ def calculate_metric(mol_dicts):
 
     unique_ratio = unique_number / n_valid
 
-    qm9_smiles = [line.strip() for line in open('/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/chenxinyan-240108120066/wuhuaijin/QVAE/data/qm9_smiles_list.txt', 'r')]
+    qm9_smiles = [line.strip() for line in open('../data/qm9_smiles_list.txt', 'r')]
     qm9_smiles = list(set(qm9_smiles))
     novel_number = 0
     for i, smi in enumerate(valid_smiles_list):
