@@ -2,7 +2,7 @@
 
 Official implementation for the paper "QVAE-Mole: The Quantum VAE with Spherical Latent Variable Learning for 3-D Molecule Generation" (NeurIPS2024)
 
-https://openreview.net/forum?id=Tb5PY5vwp6
+https://openreview.net/forum?id=RqvesBxqDo&noteId=F7Zos3tCK9
 
 
 
